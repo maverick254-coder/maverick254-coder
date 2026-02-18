@@ -112,7 +112,8 @@ me.say_hi()
 I'm always excited to connect with fellow developers, collaborate on interesting projects, or just chat about tech!
 
 [![GitHub](https://img.shields.io/badge/GitHub-maverick254--coder-181717?style=for-the-badge&logo=github)](https://github.com/maverick254-coder)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+**💌 Feel free to reach out via GitHub discussions or by opening an issue!**
 
 💬 **Ask me about**: Python, AI/ML, Web Development, or anything tech-related!  
 ⚡ **Fun fact**: I believe every bug is just an undocumented feature waiting to be discovered!
